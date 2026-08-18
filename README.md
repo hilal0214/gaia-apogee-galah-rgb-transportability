@@ -1,3 +1,4 @@
+DOI: [![DOI](https://zenodo.org/badge/1338409061.svg)](https://doi.org/10.5281/zenodo.21995874)
 # Gaia–APOGEE–GALAH RGB chemical-label transportability
 
 ## Reproducibility release 2.1.0
