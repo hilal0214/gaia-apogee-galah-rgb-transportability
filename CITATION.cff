@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite this release and the associated manuscript."
+title: "Gaia–APOGEE–GALAH RGB chemical-label transportability: reproducibility release"
+type: dataset
+version: 2.1.0
+date-released: 2026-08-18
+authors:
+  - family-names: Arslonova
+    given-names: Hilola
+  - family-names: Nuritdinov
+    given-names: Salakhutdin
+  - family-names: Turaev
+    given-names: Sobir
+    affiliation: "Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences"
+abstract: >-
+  Machine-readable results, publication figures, validation records, and
+  executable checks for cross-survey chemical-label transportability in a
+  Gaia–APOGEE–GALAH red-giant atlas.
+keywords:
+  - Milky Way
+  - stellar abundances
+  - red giant branch
+  - Gaia DR3
+  - APOGEE DR17
+  - GALAH DR4
+  - transportability
+  - chemical gradients
+license: CC-BY-4.0

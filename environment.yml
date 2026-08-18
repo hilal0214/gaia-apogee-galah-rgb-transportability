@@ -1,0 +1,17 @@
+name: rgb-transport-release
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - pyarrow
+  - astropy
+  - astroquery
+  - pyyaml
+  - requests
+  - tqdm
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - pytest
