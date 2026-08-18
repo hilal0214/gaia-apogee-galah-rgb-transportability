@@ -1,3 +1,4 @@
+DOI: [![DOI](https://zenodo.org/badge/1338409061.svg)](https://doi.org/10.5281/zenodo.21995874)
 cff-version: 1.2.0
 message: "Please cite this release and the associated manuscript."
 title: "Gaia–APOGEE–GALAH RGB chemical-label transportability: reproducibility release"
